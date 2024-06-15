@@ -6,7 +6,7 @@ This is a test repository to put my 1st year C  project
 void
 ret ()
 {
-  printf ("\nwelcome to our restaurant\n");
+  printf ("\nWelcome to our restaurant\n");
 
   int total = 0, V = 0;
   char ch1;
